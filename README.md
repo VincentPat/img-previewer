@@ -2,7 +2,7 @@
 预览本地图片
 
 ## 示例
-![](../example.png)
+![](./example.png)
 
 ## 说明
 #### 实现方式一：使用FileReader
